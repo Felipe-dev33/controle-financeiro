@@ -2,7 +2,7 @@
 
 Projeto simples de controle financeiro pessoal.
 
-## 🔗 Link do projeto
+## Link do projeto
 https://felipe-dev33.github.io/controle-financeiro/
 
 ## Tecnologias
