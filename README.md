@@ -1,18 +1,42 @@
-# Controle Financeiro 
+# Controle Financeiro
 
-Projeto simples de controle financeiro pessoal.
+Um aplicativo web simples para controle de finanças pessoais, feito com HTML, CSS e JavaScript.
 
-## Link do projeto
+**Acesse o projeto:**  
 https://felipe-dev33.github.io/controle-financeiro/
 
-## Tecnologias
-- HTML
-- CSS
-- JavaScript
-- LocalStorage
+---
 
 ## Funcionalidades
-- Adicionar entradas e saídas
-- Remover transações
-- Cálculo automático do saldo
-- Dados salvos no navegador
+
+- ➕ Adicionar entradas e saídas
+- 🗑️ Remover transações
+- 📊 Cálculo automático do saldo
+- 💾 Persistência de dados com LocalStorage
+
+---
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- LocalStorage
+
+---
+
+## Objetivo do projeto
+
+Este projeto foi desenvolvido com foco em praticar manipulação do DOM, lógica em JavaScript e persistência de dados no navegador.
+
+---
+
+## Preview
+
+*(adicione aqui um print do projeto depois)*
+
+---
+
+## Autor
+
+Felipe Alves  
