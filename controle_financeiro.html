@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle Financeiro</title>
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Controle Financeiro</h1>
+
+        <div>
+            <label for="descricao">Descrição:</label>
+            <input type="text" id="descricao" placeholder="Digite a descrição">
+        </div>
+
+        <br>
+
+        <div>
+            <label for="valor">Valor:</label>
+            <input type="number" id="valor" placeholder="Digite o valor" step="0.01">
+        </div>
+
+        <br>
+
+        <div>
+            <label for="tipo">Tipo:</label>
+            <select id="tipo">
+                <option value="entrada">Entrada</option>
+                <option value="saida">Saída</option>
+            </select>
+        </div>
+
+        <button id="btnAdicionar">Adicionar</button>
+
+        <hr>
+
+        <h2>Transações</h2>
+
+        <h2 id="saldo">Saldo: R$ 0,00</h2>
+
+        <ul id="listaTransacoes"></ul>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
