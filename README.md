@@ -33,7 +33,6 @@ Este projeto foi desenvolvido com foco em praticar manipulação do DOM, lógica
 
 ## Preview
 
-<img width="1850" height="842" alt="projeto" src="https://github.com/user-attachments/assets/62ee180f-8e40-4652-8c93-8ec4f299bd69" />
 
 ---
 
