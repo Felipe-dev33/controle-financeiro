@@ -14,7 +14,6 @@ body {
     background: linear-gradient(135deg, #0f172a, #1e293b);
 }
 
-/* CARD PRINCIPAL */
 .container {
     width: 350px;
     padding: 20px;
@@ -28,13 +27,11 @@ body {
     color: white;
 }
 
-/* TITULO */
 h1 {
     text-align: center;
     margin-bottom: 15px;
 }
 
-/* INPUTS */
 label {
     display: block;
     margin-top: 10px;
@@ -53,7 +50,6 @@ input, select {
     background: rgba(255,255,255,0.9);
 }
 
-/* BOTÃO */
 button {
     width: 100%;
     margin-top: 15px;
@@ -75,7 +71,6 @@ button:hover {
     background: #16a34a;
 }
 
-/* LISTA */
 #listaTransacoes {
     margin-top: 15px;
     list-style: none;
@@ -93,7 +88,6 @@ button:hover {
     align-items: center;
 }
 
-/* SALDO */
 #saldo {
     display: block;
     text-align: center;
