@@ -9,10 +9,10 @@ https://felipe-dev33.github.io/controle-financeiro/
 
 ## Funcionalidades
 
-- ➕ Adicionar entradas e saídas
-- 🗑️ Remover transações
-- 📊 Cálculo automático do saldo
-- 💾 Persistência de dados com LocalStorage
+-  Adicionar entradas e saídas
+-  Remover transações
+-  Cálculo automático do saldo
+-  Persistência de dados com LocalStorage
 
 ---
 
